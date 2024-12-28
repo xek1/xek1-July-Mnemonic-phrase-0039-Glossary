@@ -2,16 +2,45 @@
 
 # Wordlists
 
-* [English](bip-0039/english.txt)
-* [Japanese](bip-0039/japanese.txt)
-* [Korean](bip-0039/korean.txt)
-* [Spanish](bip-0039/spanish.txt)
-* [Chinese (Simplified)](bip-0039/chinese_simplified.txt)
-* [Chinese (Traditional)](bip-0039/chinese_traditional.txt)
-* [French](bip-0039/french.txt)
-* [Italian](bip-0039/italian.txt)
-* [Czech](bip-0039/czech.txt)
-* [Portuguese](bip-0039/portuguese.txt)
+* [英语English](bip-0039/english.txt)
+* [日语Japanese](bip-0039/japanese.txt)
+* [韩语Korean](bip-0039/korean.txt)
+* [西班牙语Spanish](bip-0039/spanish.txt)
+* [中文Chinese 简体(Simplified)](bip-0039/chinese_simplified.txt)
+* [中文Chinese 繁体(Traditional)](bip-0039/chinese_traditional.txt)
+* [法语French](bip-0039/french.txt)
+* [意大利语Italian](bip-0039/italian.txt)
+* [捷克语Czech](bip-0039/czech.txt)
+* [葡萄牙语Portuguese](bip-0039/portuguese.txt)
+
+以上是十种语言随便生成一种助记词在钱包上试着其他地方只要是39词汇的都是通用的
+
+比如你英文里面助记词生成
+
+【英文】leisure ridge poet banner donor ginger ivory retire clinic mystery pulse derive
+
+【中文简体】幅 隐 蓝 又 望 挥 耐 珍 才 摇 牙 京
+
+【中文繁体】幅 隱 藍 又 望 揮 耐 珍 才 搖 牙 京
+
+【日语】そっかん　ねまわし　とくしゅう　うえき　けおとす　しうち　せつめい　ねさげ　かたち　ちあん　なにわ　くさき
+
+助记词分种拿到认意一种都可以计算出来其他的语言助记词只需要在词汇表里面找到对应排序即可根据自己爱好选择自己的助记词
+
+【1022】leisure幅
+【1485】ridge 隐
+【1388】poet 蓝
+【147】banner 又
+【523】donor 望
+【785】ginger 挥
+【952】ivory 耐
+【1472】retire 珍
+【346】clinic 才
+【1172】mystery 摇
+【1389】pulse 牙
+【476】derive 京
+助记词是12个单词，英文的中文的只需在中文的词汇表找到对应排序的即可
+
 
 ## Wordlists (Special Considerations)
 
