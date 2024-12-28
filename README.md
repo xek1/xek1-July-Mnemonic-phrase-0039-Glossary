@@ -3,15 +3,15 @@
 # Wordlists
 
 * [English](bip-0039/english.txt)
-* [Japanese](japanese.txt)
-* [Korean](korean.txt)
-* [Spanish](spanish.txt)
-* [Chinese (Simplified)](chinese_simplified.txt)
-* [Chinese (Traditional)](chinese_traditional.txt)
-* [French](french.txt)
-* [Italian](italian.txt)
-* [Czech](czech.txt)
-* [Portuguese](portuguese.txt)
+* [Japanese](bip-0039/japanese.txt)
+* [Korean](bip-0039/korean.txt)
+* [Spanish](bip-0039/spanish.txt)
+* [Chinese (Simplified)](bip-0039/chinese_simplified.txt)
+* [Chinese (Traditional)](bip-0039/chinese_traditional.txt)
+* [French](bip-0039/french.txt)
+* [Italian](bip-0039/italian.txt)
+* [Czech](cbip-0039/zech.txt)
+* [Portuguese](bip-0039/portuguese.txt)
 
 ## Wordlists (Special Considerations)
 
