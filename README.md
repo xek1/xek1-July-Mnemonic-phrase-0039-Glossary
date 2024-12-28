@@ -1,0 +1,1 @@
+# xek1-July-Mnemonic-phrase-0039-Glossary
