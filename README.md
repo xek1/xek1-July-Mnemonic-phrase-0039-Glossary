@@ -12,6 +12,11 @@
 * [意大利语Italian](bip-0039/italian.txt)
 * [捷克语Czech](bip-0039/czech.txt)
 * [葡萄牙语Portuguese](bip-0039/portuguese.txt)
+* [词汇表排序组成Vocabulary sorting composition](bip-0039/%E8%AF%8D%E6%B1%87%E8%A1%A8%E6%8E%92%E5%BA%8F.xlsx)
+
+
+
+
 
 以上是十种语言随便生成一种助记词在钱包上试着其他地方只要是39词汇的都是通用的
 
