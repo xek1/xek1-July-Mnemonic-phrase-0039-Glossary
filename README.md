@@ -14,7 +14,7 @@
 * [葡萄牙语Portuguese](bip-0039/portuguese.txt)
 * [词汇表排序组合下载Vocabulary sorting composition](https://github.com/xek1/xek1-July-Mnemonic-phrase-0039-Glossary/raw/refs/heads/main/bip-0039/%E8%AF%8D%E6%B1%87%E8%A1%A8%E6%8E%92%E5%BA%8F.xlsx)
 
-*[联系方式(https://t.me/xek99)
+*[联系方式TG：/@xek99
 
 
 
