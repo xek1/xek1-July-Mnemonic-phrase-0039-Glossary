@@ -2,7 +2,7 @@
 
 # Wordlists
 
-* [English](english.txt)
+* [English](bip-0039/english.txt)
 * [Japanese](japanese.txt)
 * [Korean](korean.txt)
 * [Spanish](spanish.txt)
