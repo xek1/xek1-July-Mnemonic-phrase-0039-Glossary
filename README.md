@@ -10,7 +10,7 @@
 * [Chinese (Traditional)](bip-0039/chinese_traditional.txt)
 * [French](bip-0039/french.txt)
 * [Italian](bip-0039/italian.txt)
-* [Czech](cbip-0039/zech.txt)
+* [Czech](bip-0039/czech.txt)
 * [Portuguese](bip-0039/portuguese.txt)
 
 ## Wordlists (Special Considerations)
